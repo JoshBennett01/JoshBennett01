@@ -16,7 +16,7 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]<b><b> https://linkedin.com/in/JoshEllisBennett
+[Linkedin]<b>:<b> (https://linkedin.com/in/JoshEllisBennett)
 
 <!--
 Here are some ideas to get you started:
