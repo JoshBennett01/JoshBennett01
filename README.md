@@ -5,7 +5,7 @@
 - <b>Java</b>
   - [Secured Password Generator](https://github.com/JoshBennett01/PasswordGenerator)
 - <b>[Redacted]</b>
-  - [To edit](https://www.youtube.com/) <b><i>(Potentially NSFW)</b></i>
+  - [To edit](https://www.youtube.com/)
 
 - <b>[Redacted]</b>
   - [To edit](https://www.youtube.com/)
