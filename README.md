@@ -1,6 +1,6 @@
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/JoshBennett01">Programmer</a>, <a href="linkin here"></a></h1>
 
-<h2>Software Development Projects:</h2>
+<h2> Software Development Projects:</h2>
 
 - <b>Java</b>
   - [Secured Password Generator](https://github.com/JoshBennett01/PasswordGenerator)
@@ -12,7 +12,7 @@
 - <b>Python</b>
   - [To edit](https://www.youtube.com/)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [Linkedin]<b>:<b> (https://linkedin.com/in/JoshEllisBennett)
 
