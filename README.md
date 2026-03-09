@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/JoshBennett01">Programmer</a>, <a href="linkin here"></a></h1>
+<h1>Welcome to my github! <br/></a>, <a href="linkin here"></a></h1>
 
 <h2> Software Development Projects:</h2>
 
