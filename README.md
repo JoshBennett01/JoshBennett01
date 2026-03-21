@@ -5,7 +5,7 @@
 - <b>Java</b>
   - [Secured Password Generator](https://github.com/JoshBennett01/PasswordGenerator)
 - <b>Java Spring / React Vite</b>
-  - [Real time multiplayer chess app](https://github.com/JoshBennett01/ChessProject)
+  - [Real Time Multiplayer ChessApp](https://github.com/JoshBennett01/ChessProject)
 
 - <b>[Redacted]</b>
   - [To edit](https://www.youtube.com/)
