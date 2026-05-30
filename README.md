@@ -8,7 +8,7 @@
   - [Real Time Multiplayer ChessApp](https://github.com/JoshBennett01/ChessProject)
 
 - <b>[TradeQuote, experimental full stack website]</b>
-  - [To edit](https://tradequote.ca/)
+  - [TradeQuote](https://tradequote.ca/)
 - <b>Python</b>
   - [To edit](https://www.youtube.com/)
 
