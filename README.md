@@ -7,8 +7,8 @@
 - <b>Java Spring / React Vite</b>
   - [Real Time Multiplayer ChessApp](https://github.com/JoshBennett01/ChessProject)
 
-- <b>[TradeQuote, experimental full stack website]</b>
-  - [TradeQuote](https://tradequote.ca/)
+- <b>[TradeQuote, React, Spring, Postgres]</b>
+  - [TradeQuote - Full Stack Website](https://tradequote.ca/)
 - <b>Python</b>
   - [To edit](https://www.youtube.com/)
 
