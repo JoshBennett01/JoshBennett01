@@ -14,7 +14,7 @@
 
 <h2> Connect with me:</h2>
 
-[Linkedin]<b>:<b> (https://linkedin.com/in/JoshEllisBennett)
+[Linkedin](https://linkedin.com/in/JoshEllisBennett)
 
 <!--
 Here are some ideas to get you started:
