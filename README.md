@@ -10,7 +10,7 @@
 - <b>TradeQuote, React, Spring, Postgres</b>
   - [TradeQuote - Full Stack Website](https://tradequote.ca/)
 - <b>Python</b>
-  - [To edit](https://www.youtube.com/)
+  
 
 <h2> Connect with me:</h2>
 
