@@ -14,7 +14,7 @@
 
 <h2> Connect with me:</h2>
 
--Linkedin: https://linkedin.com/in/JoshEllisBennett
+-Linkedin: [https://linkedin.com/in/JoshEllisBennett](https://www.linkedin.com/in/josh-bennett-8191b72a3/)
 
 -Email: joshellisbennett@gmail.com
 
